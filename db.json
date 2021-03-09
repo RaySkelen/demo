@@ -7,7 +7,6 @@
   "data": {},
   "gameState": {
     "currentScore": 0,
-    "gameInProgress": false,
     "currentQuestion": null,
     "currentLevel": 1
   }
