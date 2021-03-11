@@ -295,7 +295,7 @@
 				        "Tissues"
 				    ],
 				    "question": "Ecology deals with"},
-      {correct": 0,
+      {"correct": 0,
 				    "content": [
 				        "Earth's gravitational pull",
 				        "Moon's gravitational pull",
@@ -367,7 +367,7 @@
 				        "Mahamana"
 				    ],
 				    "question": "Lal Bahadur Shastri is also known as"},
-      {{
+      {
 				    "correct": 1,
 				    "content": [
 				        "largest airport",
