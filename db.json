@@ -6,6 +6,8 @@
   },
   "data": {},
   "gameState": {
+    "appInitialized": true,
+    "gameInitialized": true,
     "currentScore": 0,
     "currentQuestion": null,
     "currentLevel": 1
